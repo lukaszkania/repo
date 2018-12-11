@@ -1,0 +1,4 @@
+
+# to jest plik ukryty 
+# i go zmodyfikowalismy
+# dwa razy
